@@ -1,0 +1,84 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-family: verdana;
+  background-color: rgb(248, 248, 248);
+  margin-left: 2rem;
+  margin-right: 2rem;
+  
+}
+header p{
+  letter-spacing: 0.4px;
+  line-height: 1.5;
+  text-align: justify;
+}
+h1{
+  display: block;
+  background-color: lightblue;
+  color: rgb(3, 92, 119);
+  border: 2px solid rgb(3, 92, 119);
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 55px;
+  margin-top: 10px;
+}
+section h2{
+  color: rgb(3, 92, 119);
+  margin-bottom: 5px;
+  margin-top: 30px;
+}
+section p,section li{
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  text-align: justify;
+}
+.name{
+  width: 5rem;
+  height: 0.5rem;
+  display: inline-block;
+}
+.name_input{
+  display: inline-block;
+  width: 17rem;
+  padding: 0.25rem 0.75rem;
+  color: #101f10;
+}
+.email{
+  width: 5rem;
+  height: 0.5rem;
+  display: inline-block;
+}
+.email_input{
+  display: inline-block;
+  width: 17rem;
+  padding: 0.25rem 0.75rem;
+  color: #101f10;
+}
+.message{
+  width: 5rem;
+  height: 0.5rem;
+  display: inline-block;
+}
+.message_textarea{
+  display: inline-block;
+  width: 17rem;
+  padding: 0.25rem 0.75rem;
+  height: 5rem;
+}
+.btn{
+  color: black;
+  padding: 0.25rem 0.75rem;
+  width: 5rem;
+  font-size: 17px;
+  margin: 0.5rem;
+}
+img{
+  border-radius: 1rem;
+  border: 3px solid #333;
+  margin-left: 3.5rem;
+  margin-top: 0.10rem;
+  margin-bottom: 2rem;
+} 
+  
